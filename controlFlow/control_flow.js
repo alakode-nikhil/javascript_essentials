@@ -8,3 +8,5 @@ if (userRole==="admin"){
 }else{
     accessLevel = "No access granted";
 }
+
+console.log("Access Level", accessLevel);
